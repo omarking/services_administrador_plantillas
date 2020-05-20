@@ -1,0 +1,7 @@
+com\fastcode\android\dao\DAO_USERS.class
+com\fastcode\android\entidades\Role_User.class
+com\fastcode\android\dao\Conexion.class
+com\fastcode\android\entidades\Users.class
+com\fastcode\android\resources\UserService.class
+com\fastcode\android\entidades\Roles.class
+com\fastcode\android\dao\DaoUsers.class
